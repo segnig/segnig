@@ -138,10 +138,19 @@ pie
 
 ### 💡 **Inspirations**
 
-- 📚 **Books I recommend** for aspiring Data Scientists:  
-    - **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"**  
-    - **"Python for Data Analysis"**  
-    - **"Deep Learning with Python"**
+Here’s a list of recommended books for aspiring Data Scientists with links to their respective sources:
+
+### 📚 **Books I recommend for aspiring Data Scientists:**
+
+1. **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**
+   - This book is a great resource for learning machine learning using practical examples and popular libraries like Scikit-Learn, Keras, and TensorFlow.
+
+2. **[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957660/)**
+   - Focuses on data analysis with Python, covering tools like Pandas, NumPy, and IPython. It is excellent for learning how to manipulate and analyze large datasets.
+
+3. **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)**
+   - A great book for those interested in deep learning using Python. It covers concepts and practical applications using Keras and TensorFlow.
+
 
 - 🎥 **YouTube Channels I Follow** for Data Science:  
     - [**StatQuest with Josh Starmer**](https://www.youtube.com/@statquest)
