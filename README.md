@@ -135,11 +135,6 @@ pie
 - Active **LeetCode** user with a focus on **Data Structures and Algorithms**.
 
 ---
-
-### 💡 **Inspirations**
-
-Here’s a list of recommended books for aspiring Data Scientists with links to their respective sources:
-
 ### 📚 **Books I recommend for aspiring Data Scientists:**
 
 1. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
