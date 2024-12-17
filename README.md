@@ -102,7 +102,7 @@
 ### 🏆 **Achievements**
 
 - 🏅 **Data Science Mentor** at **Computer Science and Engineering Club (CSEC)**  
-- 📈 Solved over **500+ problems** across **LeetCode, Codeforces**, and **HackerRank**  
+- 📈 Solved over **700+ problems** across **LeetCode, Codeforces**, and **HackerRank**  
 - 🛠️ Built impactful projects with **Python, SQL**, and **Data Visualization Tools**  
 
 
@@ -122,8 +122,8 @@
 ```mermaid
 pie
     title My Daily Activity
-    "Coding & Development" : 50
-    "Learning New Skills" : 20
+    "Coding & Development" : 30
+    "Learning New Skills" : 40
     "Reading & Researching" : 10
     "Problem Solving (LeetCode, CF)" : 10
     "Community Volunteering" : 10
@@ -135,7 +135,7 @@ pie
 
 - 🤝 Open for collaborations on **Data Science Projects**  
 - 💼 Available for freelancing or mentorship opportunities  
-- 📬 Reach me via LinkedIn or email: **validresult11@gmail.com**  
+- 📬 Reach me via LinkedIn or email: **segnigirma11@gmail.com**  
 
 ---
 
