@@ -66,8 +66,10 @@
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
