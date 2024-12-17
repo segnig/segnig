@@ -66,10 +66,6 @@
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=segnig&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="48%" />
