@@ -16,10 +16,9 @@
 
 - 🎓 **Student** at **Adama Science and Technology University**  
 - 👨‍💻 Passionate about **Data Science, Machine Learning**, and **AI**  
-- 🌟 Love working on **Data Analysis, Backend Development**, and **Visualization**  
+- 🌟 Love working on **Data Analysis, Feature Engineering, Model Building**, and **Visualization**  
 - 💡 Exploring **TensorFlow, Scikit-Learn, and Deep Learning**  
-- 🎯 Focused on solving real-world challenges with data-driven solutions  
-- 🌐 Active in open-source communities and coding platforms  
+- 🎯 Focused on solving real-world challenges with data-driven solutions
 - 🤝 Available for **collaborations** on Data Science and ML projects  
 
 ---
@@ -69,13 +68,13 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -89,11 +88,12 @@
 | **Tanzania Tourism Prediction** | Zindi Competition for tourism prediction | Python, Pandas, ML Models, EDA    | [Tanzania Tourism](https://github.com/segnig/Tanzania-Tourism-Prediction) |
 | **Financial Inclusion Africa** | Predicting financial inclusion in Africa      | Python, Scikit-Learn, Data Analysis | [Financial Inclusion](https://github.com/segnig/Financial-Inclusion-in-Africa)|
 
+
 ---
 
 ### 🏆 **Achievements**
 
-- 🏅 **Data Science Mentor** at **Computer Science and Engineering Club (CSEC)**  
+- 🏅 **Data Science and CPD member** at **Computer Science and Engineering Club (CSEC)**  
 - 📈 Solved over **700+ problems** across **LeetCode, Codeforces**, and **HackerRank**  
 - 🛠️ Built impactful projects with **Python, SQL**, and **Data Visualization Tools**  
 
@@ -131,9 +131,7 @@ pie
 ---
 
 ### 🏆 **Other Notable Mentions**
-
-- **Top 10% Kaggle Contributor** in competitions such as **Titanic** and **House Prices**.  
-- Regular contributor to the **StackOverflow** community, answering **Data Science** and **Machine Learning** questions.  
+   
 - Active **LeetCode** user with a focus on **Data Structures and Algorithms**.
 
 ---
