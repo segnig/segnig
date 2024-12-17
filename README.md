@@ -111,14 +111,18 @@
 ### 🎯 **My Daily Routine**
 
 ```mermaid
-pieDonut
+pie
     title My Daily Activity
     "Coding & Development" : 30
     "Learning New Skills" : 40
     "Reading & Researching" : 10
     "Problem Solving (LeetCode, CF)" : 10
     "Community Volunteering" : 10
-
+    style "Coding & Development" fill:#f39c12,stroke:#f39c12
+    style "Learning New Skills" fill:#27ae60,stroke:#27ae60
+    style "Reading & Researching" fill:#2980b9,stroke:#2980b9
+    style "Problem Solving (LeetCode, CF)" fill:#8e44ad,stroke:#8e44ad
+    style "Community Volunteering" fill:#e74c3c,stroke:#e74c3c
 ```
 
 ---
