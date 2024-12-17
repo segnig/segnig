@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=segni&label=Profile%20views&color=0e75b6&style=flat" alt="segni" />
-  <a href="https://github.com/segni?tab=followers"><img src="https://img.shields.io/github/followers/segni?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/segni?tab=followers"><img src="https://img.shields.io/github/followers/segnig?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🛠️ **Languages and Tools**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,postgresql,mysql,django,git,html,js,powerbi,vscode,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,postgresql,mysql,django,git,html,js,powerbi,vscode,matplotlib" alt="Skills" />
 </p>
 
 ---
@@ -61,7 +61,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segni&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  
 </div>
 
 ---
