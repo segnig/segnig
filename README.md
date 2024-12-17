@@ -46,7 +46,7 @@
   <a href="https://t.me/valid_result" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/valid__result2" target="_blank">
+  <a href="https://www.instagram.com/valid__result2/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/valid_result" target="_blank">
