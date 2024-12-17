@@ -111,18 +111,13 @@
 ### 🎯 **My Daily Routine**
 
 ```mermaid
-pie
-    title My Daily Activity Breakdown
+pieDonut
+    title My Daily Activity
     "Coding & Development" : 30
     "Learning New Skills" : 40
     "Reading & Researching" : 10
     "Problem Solving (LeetCode, CF)" : 10
     "Community Volunteering" : 10
-    section Coding & Development : 30
-    section Learning New Skills : 40
-    section Reading & Researching : 10
-    section Problem Solving (LeetCode, CF) : 10
-    section Community Volunteering : 10
 
 ```
 
