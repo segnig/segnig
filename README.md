@@ -1,8 +1,3 @@
-Here's an extended version of your GitHub profile with **additional features** to enhance interactivity and presentation:
-
----
-
-```markdown
 <h1 align="center">Hi 👋, I'm Segni Girma</h1>
 <h3 align="center">🚀 A Passionate Data Scientist | Python • SQL • Machine Learning • Data Visualization</h3>
 
