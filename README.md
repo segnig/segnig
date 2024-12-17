@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Segni Girma</h1>
 <h3 align="center">🚀 A Passionate Data Scientist | Python • SQL • Machine Learning • Data Visualization</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=segnig&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/segnig?tab=followers">
+  <a href="https://github.com/segnig?tab=followers">    
     <img src="https://img.shields.io/github/followers/segnig?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
@@ -66,17 +67,15 @@
 
 ### 📊 **GitHub Stats**
 
-<div>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-</div>
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
+</p>
 
 ---
 
@@ -126,7 +125,7 @@ pie
 
 - 🤝 Open for collaborations on **Data Science Projects**  
 - 💼 Available for freelancing or mentorship opportunities  
-- 📬 Reach me via LinkedIn or email: **segnigirma11@gmail.com**  
+- 📬 Reach me via LinkedIn or email: **segnigirma11@gmail.com**
 
 ---
 
@@ -155,3 +154,5 @@ pie
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
+
+---
