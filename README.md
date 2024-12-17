@@ -146,9 +146,8 @@ pie
     - **"Deep Learning with Python"**
 
 - 🎥 **YouTube Channels I Follow** for Data Science:  
-    - **Data School**  
-    - **StatQuest with Josh Starmer**  
-    - **Sentdex**
+    - [**StatQuest with Josh Starmer**](https://www.youtube.com/@statquest)
+    - [**Sentdex**](https://www.youtube.com/@sentdex)
 
 ---
 
