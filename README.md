@@ -155,7 +155,7 @@ pie
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-diagonal.svg" alt="Contribution Diagonal Animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-diamond.svg" alt="Contribution Diamond Animation" />
 </p>
 
 
