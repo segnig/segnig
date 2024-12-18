@@ -87,7 +87,7 @@
 | **Titanic Kaggle Competition** | Data Science Kaggle competition for prediction | Python, Pandas, Feature Engineering, EDA | [Titanic](https://github.com/segnig/kaggle/Titanic) |
 | **Tanzania Tourism Prediction** | Zindi Competition for tourism prediction | Python, Pandas, ML Models, EDA    | [Tanzania Tourism](https://github.com/segnig/Tanzania-Tourism-Prediction) |
 | **Financial Inclusion Africa** | Predicting financial inclusion in Africa      | Python, Scikit-Learn, Data Analysis | [Financial Inclusion](https://github.com/segnig/Financial-Inclusion-in-Africa)|
-| **Searching Ingine** | File Searching with content(COS similarity) | Python, CSV-File, Telebot | [Annatoo Search Engine](https://github.com/segnig/Search-engine-Annaantoo-python-cos)|
+| **Searching Engine** | File Searching with content(COS similarity) | Python, CSV-File, Telebot | [Annatoo Search Engine](https://github.com/segnig/Search-engine-Annaantoo-python-cos)|
 | **Mini shop management system**| Inventory Management System | c++, DSA |[Mini shop management system](https://github.com/segnig/mini-shop-management-system-using-c--DSA)|
 
 ---
