@@ -70,9 +70,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="60%" />
 </p>
+<!-- Center the image and include cache-busting -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical&cache=1" alt="GitHub Streak" width="60%" />
 </p>
+
+<!-- Alternatively, use pure markdown syntax if HTML doesn't work -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical&cache=1)
+
+<!-- Alternative service if the streak stats service is unavailable -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="60%" />
