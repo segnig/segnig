@@ -71,8 +71,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=segnig&show_icons=true&theme=radical" alt="GitHub Stats" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=segnig&theme=radical&cache=1" alt="GitHub Streak" width="60%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnig&layout=compact&theme=radical" alt="Top Languages" width="60%" />
 </p>
