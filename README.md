@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Segni+Girma;ML+Engineer+%7C+Competitive+Programmer;Zindi+Expert+%7C+Codeforces+Expert;Specializing+in+Tabular+Data+%26+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Segni+Girma;Data+Scientist+%7C+Competitive+Programmer;Zindi+Expert+%7C+Codeforces+Expert;Specializing+in+Tabular+Data+%26+Algorithms" alt="Typing SVG" />
 </div>
 
 ---
@@ -112,13 +112,25 @@ def hybrid_approach(data):
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/validresults)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@segnigirma11)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:segnigirma11@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valid_result)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/validresult)
+
 [![Zindi](https://img.shields.io/badge/Zindi-AA1D2F?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/valid_result)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/valid_result)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/valid_result/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/segnig)
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
 
 </div>
